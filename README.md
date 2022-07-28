@@ -9,6 +9,6 @@ You Can See Changelogs of Alpha Version on Here.
 
 ----------------------------------------------Better Bedrock Web Site---------------------------------------------------------
 
-![better_bedrock_web_site_qr_code](https://user-images.githubusercontent.com/91411319/181512461-c7806089-b1f9-4f78-ab47-fe9dbacd0fb2.png)
+   ![better_bedrock_web_site_qr_code](https://user-images.githubusercontent.com/91411319/181512461-c7806089-b1f9-4f78-ab47-fe9dbacd0fb2.png)
 
 
