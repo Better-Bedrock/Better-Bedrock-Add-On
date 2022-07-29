@@ -5,7 +5,7 @@ Makes Minecraft: Bedrock Edition To Better.
 You Can See Changelogs of Alpha Version on Here.
 (https://github.com/AlperAkca79/Better-Bedrock/releases).
 
-![Better Bedrock Logo Full](https://user-images.githubusercontent.com/91411319/179784155-58edc30f-f8f5-434b-850d-b0e3c034fd0b.png)
+![Better Bedrock Logo Full Alpha](https://user-images.githubusercontent.com/91411319/181763681-7c2f2c72-79a8-4066-a1c6-1bd8d102da10.png)
 
 ----------------------------------------------Better Bedrock Web Site---------------------------------------------------------
 
