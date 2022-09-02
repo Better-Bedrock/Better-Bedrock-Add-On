@@ -5,7 +5,7 @@ Makes Minecraft: Bedrock Edition To Better.
 You Can See Changelogs of Alpha Version on Here.
 (https://github.com/AlperAkca79/Better-Bedrock/releases).
 
-Better Bedrock Bug Report (Microsoft Office Forms)
+Better Bedrock Bug Report (Google Forms)
 URL: (https://docs.google.com/forms/d/e/1FAIpQLScia431qYVDwB1qzrgPTH1UBQ3dNLmVsL0lGefF-OYW_folNg/viewform)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
