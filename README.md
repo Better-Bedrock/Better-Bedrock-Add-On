@@ -6,7 +6,7 @@ You Can See Changelogs of Alpha Version on Here.
 (https://github.com/AlperAkca79/Better-Bedrock/releases).
 
 Better Bedrock Bug Report (Microsoft Office Forms)
-URL: (https://forms.office.com/r/ekqDvQFUvj)
+URL: (https://docs.google.com/forms/d/e/1FAIpQLScia431qYVDwB1qzrgPTH1UBQ3dNLmVsL0lGefF-OYW_folNg/viewform)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ![Full Logo](https://user-images.githubusercontent.com/91411319/185792926-22a84748-325a-4907-8b02-df81053e8621.png)
